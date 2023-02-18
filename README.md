@@ -1,4 +1,4 @@
-![logo](https://github.com/Otosaka1/Otosaka1/blob/main/Github%20Banner.gif)
+![logo](https://github.com/Otosaka1/Otosaka1/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Otosaka</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
